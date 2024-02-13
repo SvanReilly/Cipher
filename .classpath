@@ -7,6 +7,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="commons-codec-1.16.1.jar"/>
-	<classpathentry kind="lib" path="A:/Documentos 1.0/eclipse-workspace/Cipher/commons-codec-1.16.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
